@@ -1,5 +1,4 @@
 ## Synopsis
-
 Personal tools for automatisation process production
 
 ## Motivation
@@ -9,9 +8,8 @@ Objective is automatisation for many application in django or ohter project in p
 
 git clone https://github.com/Nelestya/tools.git
 
-## Contributors
-
-tristand.pro@gmail.com(Nelestya)
+## Authors
+* **Dlugosz Tristan** - *Initial work* - [tools](https://github.com/Nelestya/tools)
 
 ## License
 MIT LICENCE
