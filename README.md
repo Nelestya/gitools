@@ -12,4 +12,5 @@ git clone https://github.com/Nelestya/tools.git
 * **Dlugosz Tristan** - *Initial work* - [tools](https://github.com/Nelestya/tools)
 
 ## License
-MIT LICENCE
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
