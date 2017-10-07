@@ -24,4 +24,4 @@ git clone https://github.com/Nelestya/tools.git
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Nelestya/tools/blob/master/LICENSE) file for details
