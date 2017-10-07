@@ -2,7 +2,7 @@
 Personal tools for automatisation process production
 
 ## Motivation
-Objective is automatisation for many application in django or ohter project in python
+Objective is automatisation for many application in django or other project in python
 
 ## Installation
 
