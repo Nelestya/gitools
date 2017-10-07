@@ -1,5 +1,13 @@
-## Synopsis
-Personal tools for automatisation process production
+# Tools
+
+Personal tools for automatisation process production in bash shell
+
+## Getting Started
+
+```
+bash namefile.sh
+``` 
+and select the command
 
 ## Motivation
 Objective is automatisation for many application in django or other project in python
