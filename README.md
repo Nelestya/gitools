@@ -3,6 +3,7 @@
 Personal tools for automatisation process production in bash shell
 
 ## Getting Started
+open the file and change the values in variable for the destination your project
 
 ```
 bash namefile.sh
