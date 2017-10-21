@@ -31,6 +31,6 @@ select i in run makemigrations migrate showmigrations \test; do
                 exit
                 break
         else
-                echo "Ceci n'existe pas"
+                echo "It's not exist"
         fi
 done
