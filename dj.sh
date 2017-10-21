@@ -1,4 +1,4 @@
-PROJECT="streos/"
+PROJECT="projectname/"
 APPLICATIONS=("baseapp" "cart" "orders" "payment" "shop")
 RETURNCD="../.."
 
