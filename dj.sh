@@ -50,11 +50,6 @@ select i in run makemigrations migrate showmigrations \test createsuperuser dele
                 break
 
         else
-<<<<<<< HEAD
-
                 echo "Ceci n'existe pas"
-=======
-                echo "It's not exist"
->>>>>>> a3906165e97218d53c19c28b32c835b998bcaa0b
         fi
 done
